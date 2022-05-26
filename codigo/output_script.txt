@@ -1,0 +1,3456 @@
+porfavor ingrese la carpeta a analizar:----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014304.69+263833.0.
+
+The star  ASASSN-VJ014304.69+263833.0. is not periodic
+
+total:  1
+variables:  0
+non variables:  1
+error:  0
+The time for this start was 0.03600025177001953
+Total time until now: 18.220953226089478 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014304.94+744757.7
+
+The star  ASASSN-V J014304.94+744757.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00392
+ - Using 5 steps per peak; omega_step = 0.000783
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 80184 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.39893543438993395 days and the amplitud is 0.32200000000000006 mag 
+The information of the Asassn is: 
+The period is: 9.9229761 days and the amplitud is 0.36 mag 
+
+
+total:  2
+variables:  1
+non variables:  1
+error:  0
+The time for this start was 1.8711583614349365
+Total time until now: 20.092111587524414 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014306.42+523302.7.
+
+The star  ASASSN-VJ014306.42+523302.7. is not periodic
+
+total:  3
+variables:  1
+non variables:  2
+error:  0
+The time for this start was 0.02300429344177246
+Total time until now: 20.115115880966187 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014306.77+732901.2
+
+The star  ASASSN-V J014306.77+732901.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00392
+ - Using 5 steps per peak; omega_step = 0.000783
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 80185 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.16015591923181885 days and the amplitud is 0.5469999999999997 mag 
+The information of the Asassn is: 
+The period is: 0.3203101 days and the amplitud is 0.61 mag 
+
+
+total:  4
+variables:  2
+non variables:  2
+error:  0
+The time for this start was 2.4409677982330322
+Total time until now: 22.55608367919922 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014306.83+565028.9
+
+The star  ASASSN-V J014306.83+565028.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.8214819767521706 days and the amplitud is 0.08399999999999963 mag 
+The information of the Asassn is: 
+The period is: 1.6430146 days and the amplitud is 0.12 mag 
+
+
+total:  5
+variables:  3
+non variables:  2
+error:  0
+The time for this start was 1.4673540592193604
+Total time until now: 24.02343773841858 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014308.92+165711.0.
+
+The star  ASASSN-VJ014308.92+165711.0. is not periodic
+
+total:  6
+variables:  3
+non variables:  3
+error:  0
+The time for this start was 0.015000343322753906
+Total time until now: 24.038438081741333 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014309.63+640214.6.
+
+The star  ASASSN-VJ014309.63+640214.6. is not periodic
+
+total:  7
+variables:  3
+non variables:  4
+error:  0
+The time for this start was 0.02100062370300293
+Total time until now: 24.059438705444336 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014312.18-102650.3
+
+The star  ASASSN-V J014312.18-102650.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000684
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91762 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.24885549617095398 days and the amplitud is 0.33449999999999935 mag 
+The information of the Asassn is: 
+The period is: 0.4977045 days and the amplitud is 0.28 mag 
+
+
+total:  8
+variables:  4
+non variables:  4
+error:  0
+The time for this start was 1.683129072189331
+Total time until now: 25.742567777633667 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014312.70+353015.3
+
+The star  ASASSN-V J014312.70+353015.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000563
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111541 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.18440598076713152 days and the amplitud is 0.3905000000000003 mag 
+The information of the Asassn is: 
+The period is: 0.3688128 days and the amplitud is 0.45 mag 
+
+
+total:  9
+variables:  5
+non variables:  4
+error:  0
+The time for this start was 2.9942240715026855
+Total time until now: 28.736791849136353 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014313.82+471404.7
+
+The star  ASASSN-V J014313.82+471404.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 3.9343226770722795 days and the amplitud is 0.39699999999999935 mag 
+The information of the Asassn is: 
+The period is: 3.9490064 days and the amplitud is 0.53 mag 
+
+
+total:  10
+variables:  6
+non variables:  4
+error:  0
+The time for this start was 1.676128625869751
+Total time until now: 30.412920475006104 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014313.94+623311.7
+
+The star  ASASSN-V J014313.94+623311.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.47878934016752317 days and the amplitud is 0.08800000000000008 mag 
+The information of the Asassn is: 
+The period is: 0.9575936 days and the amplitud is 0.12 mag 
+
+
+total:  11
+variables:  7
+non variables:  4
+error:  0
+The time for this start was 1.8521382808685303
+Total time until now: 32.265058755874634 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014315.39-033120.9.
+
+The star  ASASSN-VJ014315.39-033120.9. is not periodic
+
+total:  12
+variables:  7
+non variables:  5
+error:  0
+The time for this start was 0.018999099731445312
+Total time until now: 32.28405785560608 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014315.48+703717.2.
+
+The star  ASASSN-VJ014315.48+703717.2. is not periodic
+
+total:  13
+variables:  7
+non variables:  6
+error:  0
+The time for this start was 0.02300119400024414
+Total time until now: 32.30705904960632 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014316.06+651313.4
+
+The star  ASASSN-V J014316.06+651313.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 71995 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9930898150056792 days and the amplitud is 0.3049999999999997 mag 
+The information of the Asassn is: 
+The period is: 236.2185541 days and the amplitud is 0.3 mag 
+
+
+total:  14
+variables:  8
+non variables:  6
+error:  0
+The time for this start was 1.5261156558990479
+Total time until now: 33.83317470550537 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014316.73+595951.6
+
+The star  ASASSN-V J014316.73+595951.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 3.6e+02
+ - Computing periods at 72027 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 3.842798662040326 days and the amplitud is 0.32099999999999973 mag 
+The information of the Asassn is: 
+The period is: 3.8431394 days and the amplitud is 0.54 mag 
+
+
+total:  15
+variables:  9
+non variables:  6
+error:  0
+The time for this start was 1.676123857498169
+Total time until now: 35.50929856300354 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014317.75+844353.8
+
+The star  ASASSN-V J014317.75+844353.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00355
+ - Using 5 steps per peak; omega_step = 0.00071
+ - User-specified period range:  0.1 to 2.5e+02
+ - Computing periods at 88423 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.5839319329825955 days and the amplitud is 0.40000000000000036 mag 
+The information of the Asassn is: 
+The period is: 0.5839364 days and the amplitud is 0.71 mag 
+
+
+total:  16
+variables:  10
+non variables:  6
+error:  0
+The time for this start was 1.5541186332702637
+Total time until now: 37.063417196273804 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014317.87+650926.5.
+
+The star  ASASSN-VJ014317.87+650926.5. is not periodic
+
+total:  17
+variables:  10
+non variables:  7
+error:  0
+The time for this start was 0.022005319595336914
+Total time until now: 37.08542251586914 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014318.39-361854.2
+
+The star  ASASSN-V J014318.39-361854.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00396
+ - Using 5 steps per peak; omega_step = 0.000791
+ - User-specified period range:  0.1 to 4.9e+02
+ - Computing periods at 79375 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.19944363326423833 days and the amplitud is 0.21649999999999991 mag 
+The information of the Asassn is: 
+The period is: 0.3988873 days and the amplitud is 0.33 mag 
+
+
+total:  18
+variables:  11
+non variables:  7
+error:  0
+The time for this start was 2.8562099933624268
+Total time until now: 39.94163250923157 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014318.95+554004.8
+
+The star  ASASSN-V J014318.95+554004.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00567
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 2.7e+02
+ - Computing periods at 55382 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 2.6920834785311767 days and the amplitud is 0.3210000000000006 mag 
+The information of the Asassn is: 
+The period is: 5.3815729 days and the amplitud is 0.23 mag 
+
+
+total:  19
+variables:  12
+non variables:  7
+error:  0
+The time for this start was 2.054163932800293
+Total time until now: 41.99579644203186 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014319.56+014041.9.
+
+The star  ASASSN-VJ014319.56+014041.9. is not periodic
+
+total:  20
+variables:  12
+non variables:  8
+error:  0
+The time for this start was 0.03900313377380371
+Total time until now: 42.034799575805664 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014319.98+671009.3
+
+The star  ASASSN-V J014319.98+671009.3 is periodic
+
+gatspy error
+
+total:  21
+variables:  12
+non variables:  8
+error:  1
+The time for this start was 0.06400275230407715
+Total time until now: 42.09880232810974 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014320.59+193724.0
+
+The star  ASASSN-V J014320.59+193724.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000565
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111285 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.16706356063060865 days and the amplitud is 0.5844999999999994 mag 
+The information of the Asassn is: 
+The period is: 0.3341282 days and the amplitud is 0.64 mag 
+
+
+total:  22
+variables:  13
+non variables:  8
+error:  1
+The time for this start was 2.0171456336975098
+Total time until now: 44.11594796180725 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014320.80-362538.7
+
+The star  ASASSN-V J014320.80-362538.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00396
+ - Using 5 steps per peak; omega_step = 0.000791
+ - User-specified period range:  0.1 to 4.9e+02
+ - Computing periods at 79375 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.6159512055363068 days and the amplitud is 0.5744999999999996 mag 
+The information of the Asassn is: 
+The period is: 0.6159474 days and the amplitud is 0.96 mag 
+
+
+total:  23
+variables:  14
+non variables:  8
+error:  1
+The time for this start was 1.82413649559021
+Total time until now: 45.94008445739746 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014322.56+161817.6
+
+The star  ASASSN-V J014322.56+161817.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000565
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111285 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.5966072905580301 days and the amplitud is 0.5465 mag 
+The information of the Asassn is: 
+The period is: 0.5966029 days and the amplitud is 0.62 mag 
+
+
+total:  24
+variables:  15
+non variables:  8
+error:  1
+The time for this start was 2.322175979614258
+Total time until now: 48.26226043701172 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014322.60+075121.9
+
+The star  ASASSN-V J014322.60+075121.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00349
+ - Using 5 steps per peak; omega_step = 0.000699
+ - User-specified period range:  0.1 to 3.2e+02
+ - Computing periods at 89926 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.6758768741775868 days and the amplitud is 0.5495000000000001 mag 
+The information of the Asassn is: 
+The period is: 0.6758611 days and the amplitud is 0.53 mag 
+
+
+total:  25
+variables:  16
+non variables:  8
+error:  1
+The time for this start was 2.1651618480682373
+Total time until now: 50.427422285079956 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014323.87+171110.1
+
+The star  ASASSN-V J014323.87+171110.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000565
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111285 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.1543127305022403 days and the amplitud is 0.42599999999999927 mag 
+The information of the Asassn is: 
+The period is: 0.3086235 days and the amplitud is 0.4 mag 
+
+
+total:  26
+variables:  17
+non variables:  8
+error:  1
+The time for this start was 2.830220937728882
+Total time until now: 53.25764322280884 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014325.29+584618.2.
+
+The star  ASASSN-VJ014325.29+584618.2. is not periodic
+
+total:  27
+variables:  17
+non variables:  9
+error:  1
+The time for this start was 0.04199838638305664
+Total time until now: 53.299641609191895 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014325.65+554319.6
+
+The star  ASASSN-V J014325.65+554319.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00484
+ - Using 5 steps per peak; omega_step = 0.000969
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 64819 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.21983194962785332 days and the amplitud is 0.19349999999999934 mag 
+The information of the Asassn is: 
+The period is: 0.4396651 days and the amplitud is 0.35 mag 
+
+
+total:  28
+variables:  18
+non variables:  9
+error:  1
+The time for this start was 1.613114595413208
+Total time until now: 54.9127562046051 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014325.86+070611.0.
+
+The star  ASASSN-VJ014325.86+070611.0. is not periodic
+
+total:  29
+variables:  18
+non variables:  10
+error:  1
+The time for this start was 0.01300358772277832
+Total time until now: 54.92575979232788 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014326.00-652727.7
+
+The star  ASASSN-V J014326.00-652727.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00396
+ - Using 5 steps per peak; omega_step = 0.000791
+ - User-specified period range:  0.1 to 2.9e+02
+ - Computing periods at 79361 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.41659192947487916 days and the amplitud is 0.3490000000000002 mag 
+The information of the Asassn is: 
+The period is: 0.8331812 days and the amplitud is 0.5 mag 
+
+
+total:  30
+variables:  19
+non variables:  10
+error:  1
+The time for this start was 2.1341655254364014
+Total time until now: 57.05992531776428 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014326.53+685621.1
+
+The star  ASASSN-V J014326.53+685621.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00484
+ - Using 5 steps per peak; omega_step = 0.000968
+ - User-specified period range:  0.1 to 1.6e+02
+ - Computing periods at 64875 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.2008406085083968 days and the amplitud is 0.4535 mag 
+The information of the Asassn is: 
+The period is: 0.401681 days and the amplitud is 0.6 mag 
+
+
+total:  31
+variables:  20
+non variables:  10
+error:  1
+The time for this start was 2.0001440048217773
+Total time until now: 59.06006932258606 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014327.71+584159.5
+
+The star  ASASSN-V J014327.71+584159.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9068940053300315 days and the amplitud is 0.10000000000000053 mag 
+The information of the Asassn is: 
+The period is: 1.8137578 days and the amplitud is 0.15 mag 
+
+
+total:  32
+variables:  21
+non variables:  10
+error:  1
+The time for this start was 1.4331083297729492
+Total time until now: 60.49317765235901 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014327.81+515118.5
+
+The star  ASASSN-V J014327.81+515118.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.2026295764937827 days and the amplitud is 0.33199999999999985 mag 
+The information of the Asassn is: 
+The period is: 0.4052609 days and the amplitud is 0.37 mag 
+
+
+total:  33
+variables:  22
+non variables:  10
+error:  1
+The time for this start was 1.9201455116271973
+Total time until now: 62.413323163986206 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014328.65+644519.5
+
+The star  ASASSN-V J014328.65+644519.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 71995 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9975144752478536 days and the amplitud is 0.09749999999999925 mag 
+The information of the Asassn is: 
+The period is: 26.9837674 days and the amplitud is 0.09 mag 
+
+
+total:  34
+variables:  23
+non variables:  10
+error:  1
+The time for this start was 1.9321465492248535
+Total time until now: 64.34646701812744 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014329.87+504035.9.
+
+The star  ASASSN-VJ014329.87+504035.9. is not periodic
+
+total:  35
+variables:  23
+non variables:  11
+error:  1
+The time for this start was 0.021004199981689453
+Total time until now: 64.36747121810913 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014330.44-773147.3
+
+The star  ASASSN-V J014330.44-773147.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.004
+ - Using 5 steps per peak; omega_step = 0.0008
+ - User-specified period range:  0.1 to 2.5e+02
+ - Computing periods at 78557 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9957322790168038 days and the amplitud is 0.13450000000000006 mag 
+The information of the Asassn is: 
+The period is: 604.5195462 days and the amplitud is 0.15 mag 
+
+
+total:  36
+variables:  24
+non variables:  11
+error:  1
+The time for this start was 2.03515362739563
+Total time until now: 66.40262484550476 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014330.63+282412.4
+
+The star  ASASSN-V J014330.63+282412.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00345
+ - Using 5 steps per peak; omega_step = 0.00069
+ - User-specified period range:  0.1 to 4e+02
+ - Computing periods at 90982 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.18925538809731587 days and the amplitud is 0.09799999999999986 mag 
+The information of the Asassn is: 
+The period is: 0.378512 days and the amplitud is 0.09 mag 
+
+
+total:  37
+variables:  25
+non variables:  11
+error:  1
+The time for this start was 2.3071701526641846
+Total time until now: 68.70979499816895 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014330.67+364701.2.
+
+The star  ASASSN-VJ014330.67+364701.2. is not periodic
+
+total:  38
+variables:  25
+non variables:  12
+error:  1
+The time for this start was 0.017000675201416016
+Total time until now: 68.72679567337036 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014330.74+761848.1
+
+The star  ASASSN-V J014330.74+761848.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00385
+ - Using 5 steps per peak; omega_step = 0.000771
+ - User-specified period range:  0.1 to 4.1e+02
+ - Computing periods at 81520 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 21.68053693239028 days and the amplitud is 0.09899999999999931 mag 
+The information of the Asassn is: 
+The period is: 21.6857786 days and the amplitud is 0.09 mag 
+
+
+total:  39
+variables:  26
+non variables:  12
+error:  1
+The time for this start was 1.9071435928344727
+Total time until now: 70.63393926620483 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014331.46+602820.2
+
+The star  ASASSN-V J014331.46+602820.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.6e+02
+ - Computing periods at 72002 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.4997145855117342 days and the amplitud is 0.2469999999999999 mag 
+The information of the Asassn is: 
+The period is: 48.5154508 days and the amplitud is 0.27 mag 
+
+
+total:  40
+variables:  27
+non variables:  12
+error:  1
+The time for this start was 1.5291152000427246
+Total time until now: 72.16305446624756 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014332.02+741607.6
+
+The star  ASASSN-V J014332.02+741607.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00392
+ - Using 5 steps per peak; omega_step = 0.000783
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 80184 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.3330636190848751 days and the amplitud is 0.17300000000000004 mag 
+The information of the Asassn is: 
+The period is: 0.666128 days and the amplitud is 0.3 mag 
+
+
+total:  41
+variables:  28
+non variables:  12
+error:  1
+The time for this start was 2.0721595287323
+Total time until now: 74.23521399497986 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014332.07+640216.5.
+
+The star  ASASSN-VJ014332.07+640216.5. is not periodic
+
+total:  42
+variables:  28
+non variables:  13
+error:  1
+The time for this start was 0.018996477127075195
+Total time until now: 74.25421047210693 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014333.58-422219.7
+
+The star  ASASSN-V J014333.58-422219.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00398
+ - Using 5 steps per peak; omega_step = 0.000796
+ - User-specified period range:  0.1 to 2.6e+02
+ - Computing periods at 78906 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.14120916542223225 days and the amplitud is 0.1379999999999999 mag 
+The information of the Asassn is: 
+The period is: 0.2824194 days and the amplitud is 0.21 mag 
+
+
+total:  43
+variables:  29
+non variables:  13
+error:  1
+The time for this start was 2.272172689437866
+Total time until now: 76.5263831615448 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014335.25-091041.1.
+
+The star  ASASSN-VJ014335.25-091041.1. is not periodic
+
+total:  44
+variables:  29
+non variables:  14
+error:  1
+The time for this start was 0.015003681182861328
+Total time until now: 76.54138684272766 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014335.79+640207.7.
+
+The star  ASASSN-VJ014335.79+640207.7. is not periodic
+
+total:  45
+variables:  29
+non variables:  15
+error:  1
+The time for this start was 0.010999441146850586
+Total time until now: 76.55238628387451 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014335.99+191531.0
+
+The star  ASASSN-V J014335.99+191531.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000565
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111285 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.374293501255275 days and the amplitud is 0.10799999999999965 mag 
+The information of the Asassn is: 
+The period is: 0.3742989 days and the amplitud is 0.08 mag 
+
+
+total:  46
+variables:  30
+non variables:  15
+error:  1
+The time for this start was 2.109157085418701
+Total time until now: 78.66154336929321 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014336.47-230210.5
+
+The star  ASASSN-V J014336.47-230210.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00474
+ - Using 5 steps per peak; omega_step = 0.000947
+ - User-specified period range:  0.1 to 1.8e+02
+ - Computing periods at 66298 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.1694497536016934 days and the amplitud is 0.39400000000000013 mag 
+The information of the Asassn is: 
+The period is: 0.3388964 days and the amplitud is 0.45 mag 
+
+
+total:  47
+variables:  31
+non variables:  15
+error:  1
+The time for this start was 1.7411293983459473
+Total time until now: 80.40267276763916 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014336.48+644450.0
+
+The star  ASASSN-V J014336.48+644450.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 71995 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9996015288998386 days and the amplitud is 0.08550000000000058 mag 
+The information of the Asassn is: 
+The period is: 423.8038765 days and the amplitud is 0.1 mag 
+
+
+total:  48
+variables:  32
+non variables:  15
+error:  1
+The time for this start was 1.6521244049072266
+Total time until now: 82.05479717254639 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014337.04+455134.0
+
+The star  ASASSN-V J014337.04+455134.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.391832488610519 days and the amplitud is 0.12950000000000017 mag 
+The information of the Asassn is: 
+The period is: 1.3917826 days and the amplitud is 0.13 mag 
+
+
+total:  49
+variables:  33
+non variables:  15
+error:  1
+The time for this start was 2.315176010131836
+Total time until now: 84.36997318267822 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014338.68+282455.3
+
+The star  ASASSN-V J014338.68+282455.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00345
+ - Using 5 steps per peak; omega_step = 0.00069
+ - User-specified period range:  0.1 to 6.3e+02
+ - Computing periods at 90991 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.16373943107816974 days and the amplitud is 0.4339999999999993 mag 
+The information of the Asassn is: 
+The period is: 0.3274845 days and the amplitud is 0.37 mag 
+
+
+total:  50
+variables:  34
+non variables:  15
+error:  1
+The time for this start was 3.0562305450439453
+Total time until now: 87.42620372772217 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014339.45+504120.5.
+
+The star  ASASSN-VJ014339.45+504120.5. is not periodic
+
+total:  51
+variables:  34
+non variables:  16
+error:  1
+The time for this start was 0.03000354766845703
+Total time until now: 87.45620727539062 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014340.08+583200.6
+
+The star  ASASSN-V J014340.08+583200.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.8529094010560654 days and the amplitud is 0.14800000000000058 mag 
+The information of the Asassn is: 
+The period is: 1.7058865 days and the amplitud is 0.2 mag 
+
+
+total:  52
+variables:  35
+non variables:  16
+error:  1
+The time for this start was 1.9461493492126465
+Total time until now: 89.40235662460327 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014340.21+253222.6
+
+The star  ASASSN-V J014340.21+253222.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00251
+ - Using 5 steps per peak; omega_step = 0.000502
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 125196 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.22482130527224334 days and the amplitud is 0.10050000000000026 mag 
+The information of the Asassn is: 
+The period is: 0.4496438 days and the amplitud is 0.16 mag 
+
+
+total:  53
+variables:  36
+non variables:  16
+error:  1
+The time for this start was 2.8047215938568115
+Total time until now: 92.20707821846008 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014340.29+470308.2
+
+The star  ASASSN-V J014340.29+470308.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 3.343907264797343 days and the amplitud is 0.0860000000000003 mag 
+The information of the Asassn is: 
+The period is: 6.6880186 days and the amplitud is 0.1 mag 
+
+
+total:  54
+variables:  37
+non variables:  16
+error:  1
+The time for this start was 1.713714838027954
+Total time until now: 93.92079305648804 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014340.42+634916.1
+
+The star  ASASSN-V J014340.42+634916.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 2.7e+02
+ - Computing periods at 72020 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.9974645981469983 days and the amplitud is 0.5225 mag 
+The information of the Asassn is: 
+The period is: 442.4529994 days and the amplitud is 0.34 mag 
+
+
+total:  55
+variables:  38
+non variables:  16
+error:  1
+The time for this start was 1.5581204891204834
+Total time until now: 95.47891354560852 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014340.52+772944.4.
+
+The star  ASASSN-VJ014340.52+772944.4. is not periodic
+
+total:  56
+variables:  38
+non variables:  17
+error:  1
+The time for this start was 0.011996030807495117
+Total time until now: 95.49090957641602 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014340.80+611947.5.
+
+The star  ASASSN-VJ014340.80+611947.5. is not periodic
+
+total:  57
+variables:  38
+non variables:  18
+error:  1
+The time for this start was 0.022005796432495117
+Total time until now: 95.51291537284851 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014340.83+003028.4.
+
+The star  ASASSN-VJ014340.83+003028.4. is not periodic
+
+total:  58
+variables:  38
+non variables:  19
+error:  1
+The time for this start was 0.011997461318969727
+Total time until now: 95.52491283416748 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014341.88+583936.2
+
+The star  ASASSN-V J014341.88+583936.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.13228759643540977 days and the amplitud is 0.28749999999999964 mag 
+The information of the Asassn is: 
+The period is: 0.26458 days and the amplitud is 0.43 mag 
+
+
+total:  59
+variables:  39
+non variables:  19
+error:  1
+The time for this start was 1.287097454071045
+Total time until now: 96.81201028823853 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014341.91+583937.2
+
+The star  ASASSN-V J014341.91+583937.2 is periodic
+
+gatspy error
+
+total:  60
+variables:  39
+non variables:  19
+error:  2
+The time for this start was 0.025002717971801758
+Total time until now: 96.83701300621033 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014343.30+635412.2
+
+The star  ASASSN-V J014343.30+635412.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 21.600868679338053 days and the amplitud is 0.08499999999999996 mag 
+The information of the Asassn is: 
+The period is: 21.5943543 days and the amplitud is 0.11 mag 
+
+
+total:  61
+variables:  40
+non variables:  19
+error:  2
+The time for this start was 1.5061204433441162
+Total time until now: 98.34313344955444 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014343.66-241941.6
+
+The star  ASASSN-V J014343.66-241941.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00398
+ - Using 5 steps per peak; omega_step = 0.000796
+ - User-specified period range:  0.1 to 4.8e+02
+ - Computing periods at 78923 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.14411402823291627 days and the amplitud is 0.5430000000000001 mag 
+The information of the Asassn is: 
+The period is: 0.2882272 days and the amplitud is 0.61 mag 
+
+
+total:  62
+variables:  41
+non variables:  19
+error:  2
+The time for this start was 3.7532804012298584
+Total time until now: 102.0964138507843 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014343.94+614439.4
+
+The star  ASASSN-V J014343.94+614439.4 is periodic
+
+gatspy error
+
+total:  63
+variables:  41
+non variables:  19
+error:  3
+The time for this start was 0.04600644111633301
+Total time until now: 102.14242029190063 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014344.41+644951.1
+
+The star  ASASSN-V J014344.41+644951.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00567
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 1.1e+02
+ - Computing periods at 55353 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9151836556872767 days and the amplitud is 0.3835000000000006 mag 
+The information of the Asassn is: 
+The period is: 1.8302746 days and the amplitud is 0.69 mag 
+
+
+total:  64
+variables:  42
+non variables:  19
+error:  3
+The time for this start was 1.8811321258544922
+Total time until now: 104.02355241775513 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014345.89+771841.3
+
+The star  ASASSN-V J014345.89+771841.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00385
+ - Using 5 steps per peak; omega_step = 0.000771
+ - User-specified period range:  0.1 to 4.1e+02
+ - Computing periods at 81520 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.17875591152088258 days and the amplitud is 0.20950000000000024 mag 
+The information of the Asassn is: 
+The period is: 0.178756 days and the amplitud is 0.32 mag 
+
+
+total:  65
+variables:  43
+non variables:  19
+error:  3
+The time for this start was 2.3401386737823486
+Total time until now: 106.36369109153748 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014346.17-435400.5
+
+The star  ASASSN-V J014346.17-435400.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00413
+ - Using 5 steps per peak; omega_step = 0.000825
+ - User-specified period range:  0.1 to 4.9e+02
+ - Computing periods at 76128 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.232596315213623 days and the amplitud is 0.4295 mag 
+The information of the Asassn is: 
+The period is: 0.4651965 days and the amplitud is 0.32 mag 
+
+
+total:  66
+variables:  44
+non variables:  19
+error:  3
+The time for this start was 3.548261880874634
+Total time until now: 109.91195297241211 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014346.49+854605.5.
+
+The star  ASASSN-VJ014346.49+854605.5. is not periodic
+
+total:  67
+variables:  44
+non variables:  20
+error:  3
+The time for this start was 0.021003007888793945
+Total time until now: 109.9329559803009 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014347.17+503910.0.
+
+The star  ASASSN-VJ014347.17+503910.0. is not periodic
+
+total:  68
+variables:  44
+non variables:  21
+error:  3
+The time for this start was 0.039011478424072266
+Total time until now: 109.97196745872498 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014347.24+593739.6
+
+The star  ASASSN-V J014347.24+593739.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 61.83435054280059 days and the amplitud is 0.13750000000000018 mag 
+The information of the Asassn is: 
+The period is: 62.0127866 days and the amplitud is 0.16 mag 
+
+
+total:  69
+variables:  45
+non variables:  21
+error:  3
+The time for this start was 1.3600919246673584
+Total time until now: 111.33205938339233 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014349.40-003003.0
+
+The star  ASASSN-V J014349.40-003003.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000684
+ - User-specified period range:  0.1 to 2.9e+02
+ - Computing periods at 91776 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.12375931473713023 days and the amplitud is 0.7894999999999994 mag 
+The information of the Asassn is: 
+The period is: 0.2475177 days and the amplitud is 0.7 mag 
+
+
+total:  70
+variables:  46
+non variables:  21
+error:  3
+The time for this start was 1.8143243789672852
+Total time until now: 113.14638376235962 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014350.77+730548.2
+
+The star  ASASSN-V J014350.77+730548.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00392
+ - Using 5 steps per peak; omega_step = 0.000783
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 80184 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.18235916464365715 days and the amplitud is 0.19949999999999957 mag 
+The information of the Asassn is: 
+The period is: 0.7294325 days and the amplitud is 0.19 mag 
+
+
+total:  71
+variables:  47
+non variables:  21
+error:  3
+The time for this start was 1.9614055156707764
+Total time until now: 115.1077892780304 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014351.01+472231.4
+
+The star  ASASSN-V J014351.01+472231.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 2.113447526727353 days and the amplitud is 0.24849999999999994 mag 
+The information of the Asassn is: 
+The period is: 2.1132108 days and the amplitud is 0.13 mag 
+
+
+total:  72
+variables:  48
+non variables:  21
+error:  3
+The time for this start was 1.707127571105957
+Total time until now: 116.81491684913635 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014351.21+591442.1
+
+The star  ASASSN-V J014351.21+591442.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 2e+02
+ - Computing periods at 72010 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 46.23992814971089 days and the amplitud is 0.17999999999999972 mag 
+The information of the Asassn is: 
+The period is: 46.1822843 days and the amplitud is 0.21 mag 
+
+
+total:  73
+variables:  49
+non variables:  21
+error:  3
+The time for this start was 1.3470990657806396
+Total time until now: 118.16201591491699 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014351.34+655740.2
+
+The star  ASASSN-V J014351.34+655740.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 71995 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.0093766408103855 days and the amplitud is 0.3229999999999995 mag 
+The information of the Asassn is: 
+The period is: 82.8122517 days and the amplitud is 0.34 mag 
+
+
+total:  74
+variables:  50
+non variables:  21
+error:  3
+The time for this start was 1.2300934791564941
+Total time until now: 119.39210939407349 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014352.69+243449.5
+
+The star  ASASSN-V J014352.69+243449.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00251
+ - Using 5 steps per peak; omega_step = 0.000502
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 125196 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.530222926020293 days and the amplitud is 0.9109999999999996 mag 
+The information of the Asassn is: 
+The period is: 0.5302264 days and the amplitud is 0.98 mag 
+
+
+total:  75
+variables:  51
+non variables:  21
+error:  3
+The time for this start was 1.99714994430542
+Total time until now: 121.3892593383789 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014352.97+264546.1
+
+The star  ASASSN-V J014352.97+264546.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00251
+ - Using 5 steps per peak; omega_step = 0.000502
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 125196 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.16901143575870056 days and the amplitud is 0.10299999999999976 mag 
+The information of the Asassn is: 
+The period is: 0.3380227 days and the amplitud is 0.12 mag 
+
+
+total:  76
+variables:  52
+non variables:  21
+error:  3
+The time for this start was 2.0291521549224854
+Total time until now: 123.41841149330139 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014353.39+521551.1
+
+The star  ASASSN-V J014353.39+521551.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00484
+ - Using 5 steps per peak; omega_step = 0.000969
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 64819 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 55.3678980502041 days and the amplitud is 0.3340000000000005 mag 
+The information of the Asassn is: 
+The period is: 55.6826726 days and the amplitud is 0.36 mag 
+
+
+total:  77
+variables:  53
+non variables:  21
+error:  3
+The time for this start was 1.7601370811462402
+Total time until now: 125.17854857444763 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014356.30-350541.4
+
+The star  ASASSN-V J014356.30-350541.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00398
+ - Using 5 steps per peak; omega_step = 0.000796
+ - User-specified period range:  0.1 to 2.8e+02
+ - Computing periods at 78913 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.15113578383900853 days and the amplitud is 0.13700000000000045 mag 
+The information of the Asassn is: 
+The period is: 0.3022714 days and the amplitud is 0.16 mag 
+
+
+total:  78
+variables:  54
+non variables:  21
+error:  3
+The time for this start was 2.0472424030303955
+Total time until now: 127.22579097747803 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014357.11+594655.6.
+
+The star  ASASSN-VJ014357.11+594655.6. is not periodic
+
+total:  79
+variables:  54
+non variables:  22
+error:  3
+The time for this start was 0.03700447082519531
+Total time until now: 127.26279544830322 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014357.18-040347.1
+
+The star  ASASSN-V J014357.18-040347.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00338
+ - Using 5 steps per peak; omega_step = 0.000676
+ - User-specified period range:  0.1 to 4.6e+02
+ - Computing periods at 92930 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 3.9485643737583414 days and the amplitud is 0.13750000000000018 mag 
+The information of the Asassn is: 
+The period is: 3.9490861 days and the amplitud is 0.12 mag 
+
+
+total:  80
+variables:  55
+non variables:  22
+error:  3
+The time for this start was 2.902862787246704
+Total time until now: 130.16565823554993 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014357.31+494731.2.
+
+The star  ASASSN-VJ014357.31+494731.2. is not periodic
+
+total:  81
+variables:  55
+non variables:  23
+error:  3
+The time for this start was 0.01600337028503418
+Total time until now: 130.18166160583496 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014357.33+674746.8
+
+The star  ASASSN-V J014357.33+674746.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 2.9e+02
+ - Computing periods at 72024 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 229.77237117733793 days and the amplitud is 0.9554999999999998 mag 
+The information of the Asassn is: 
+The period is: 447.8204175 days and the amplitud is 1.01 mag 
+
+
+total:  82
+variables:  56
+non variables:  23
+error:  3
+The time for this start was 1.931140422821045
+Total time until now: 132.112802028656 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014357.82+201334.7
+
+The star  ASASSN-V J014357.82+201334.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000564
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111434 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 9.460232366548079 days and the amplitud is 0.10850000000000026 mag 
+The information of the Asassn is: 
+The period is: 18.92 days and the amplitud is 0.12 mag 
+
+
+total:  83
+variables:  57
+non variables:  23
+error:  3
+The time for this start was 4.281322717666626
+Total time until now: 136.39412474632263 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014358.00-282402.6
+
+The star  ASASSN-V J014358.00-282402.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.004
+ - Using 5 steps per peak; omega_step = 0.000801
+ - User-specified period range:  0.1 to 2.6e+02
+ - Computing periods at 78459 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.34624123415665536 days and the amplitud is 0.14999999999999947 mag 
+The information of the Asassn is: 
+The period is: 0.6924749 days and the amplitud is 0.19 mag 
+
+
+total:  84
+variables:  58
+non variables:  23
+error:  3
+The time for this start was 1.8919930458068848
+Total time until now: 138.28611779212952 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014358.26+600148.4.
+
+The star  ASASSN-VJ014358.26+600148.4. is not periodic
+
+total:  85
+variables:  58
+non variables:  24
+error:  3
+The time for this start was 0.018001079559326172
+Total time until now: 138.30411887168884 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014358.35+584105.1.
+
+The star  ASASSN-VJ014358.35+584105.1. is not periodic
+
+total:  86
+variables:  58
+non variables:  25
+error:  3
+The time for this start was 0.016002893447875977
+Total time until now: 138.321120262146 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014359.24-293303.0.
+
+The star  ASASSN-VJ014359.24-293303.0. is not periodic
+
+total:  87
+variables:  58
+non variables:  26
+error:  3
+The time for this start was 0.014000415802001953
+Total time until now: 138.335120677948 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014359.66+653948.0
+
+The star  ASASSN-V J014359.66+653948.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00461
+ - Using 5 steps per peak; omega_step = 0.000922
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 68103 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 25.55797424425164 days and the amplitud is 0.17300000000000004 mag 
+The information of the Asassn is: 
+The period is: 25.5747696 days and the amplitud is 0.18 mag 
+
+
+total:  88
+variables:  59
+non variables:  26
+error:  3
+The time for this start was 1.3861043453216553
+Total time until now: 139.72122502326965 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014400.53+533605.9
+
+The star  ASASSN-V J014400.53+533605.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00567
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 1.4e+02
+ - Computing periods at 55362 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 61.87481547207292 days and the amplitud is 0.3150000000000004 mag 
+The information of the Asassn is: 
+The period is: 62.07 days and the amplitud is 0.34 mag 
+
+
+total:  89
+variables:  60
+non variables:  26
+error:  3
+The time for this start was 1.5341298580169678
+Total time until now: 141.25535488128662 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014401.04+323912.6
+
+The star  ASASSN-V J014401.04+323912.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000563
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111541 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.15510414202796263 days and the amplitud is 0.06700000000000017 mag 
+The information of the Asassn is: 
+The period is: 0.3102085 days and the amplitud is 0.1 mag 
+
+
+total:  90
+variables:  61
+non variables:  26
+error:  3
+The time for this start was 2.377166271209717
+Total time until now: 143.63252115249634 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014402.18+480244.2
+
+The star  ASASSN-V J014402.18+480244.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 3.6e+02
+ - Computing periods at 91725 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.145241643983421 days and the amplitud is 1.2634999999999996 mag 
+The information of the Asassn is: 
+The period is: 2.2902696 days and the amplitud is 1.99 mag 
+
+
+total:  91
+variables:  62
+non variables:  26
+error:  3
+The time for this start was 2.186164617538452
+Total time until now: 145.8186857700348 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014402.62+465533.6
+
+The star  ASASSN-V J014402.62+465533.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.20893556392584775 days and the amplitud is 0.23099999999999987 mag 
+The information of the Asassn is: 
+The period is: 0.4178691 days and the amplitud is 0.34 mag 
+
+
+total:  92
+variables:  63
+non variables:  26
+error:  3
+The time for this start was 2.1631603240966797
+Total time until now: 147.98184609413147 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014402.93+504039.8.
+
+The star  ASASSN-VJ014402.93+504039.8. is not periodic
+
+total:  93
+variables:  63
+non variables:  27
+error:  3
+The time for this start was 0.020001649856567383
+Total time until now: 148.00184774398804 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014403.32+543506.5.
+
+The star  ASASSN-VJ014403.32+543506.5. is not periodic
+
+total:  94
+variables:  63
+non variables:  28
+error:  3
+The time for this start was 0.01900339126586914
+Total time until now: 148.0208511352539 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014403.40-181433.6
+
+The star  ASASSN-V J014403.40-181433.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00351
+ - Using 5 steps per peak; omega_step = 0.000702
+ - User-specified period range:  0.1 to 2.5e+02
+ - Computing periods at 89522 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 1.1315857566393723 days and the amplitud is 0.22200000000000042 mag 
+The information of the Asassn is: 
+The period is: 1.131558 days and the amplitud is 0.15 mag 
+
+
+total:  95
+variables:  64
+non variables:  28
+error:  3
+The time for this start was 2.7482059001922607
+Total time until now: 150.76905703544617 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014404.27+573406.7
+
+The star  ASASSN-V J014404.27+573406.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9772984114724633 days and the amplitud is 0.15649999999999942 mag 
+The information of the Asassn is: 
+The period is: 48.6854772 days and the amplitud is 0.16 mag 
+
+
+total:  96
+variables:  65
+non variables:  28
+error:  3
+The time for this start was 2.100163459777832
+Total time until now: 152.869220495224 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014404.83-302147.1.
+
+The star  ASASSN-VJ014404.83-302147.1. is not periodic
+
+total:  97
+variables:  65
+non variables:  29
+error:  3
+The time for this start was 0.02600550651550293
+Total time until now: 152.8952260017395 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014405.33-060324.9
+
+The star  ASASSN-V J014405.33-060324.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00403
+ - Using 5 steps per peak; omega_step = 0.000806
+ - User-specified period range:  0.1 to 2.8e+02
+ - Computing periods at 77954 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.6462160843199674 days and the amplitud is 1.0810000000000004 mag 
+The information of the Asassn is: 
+The period is: 0.646249 days and the amplitud is 0.9 mag 
+
+
+total:  98
+variables:  66
+non variables:  29
+error:  3
+The time for this start was 2.50888991355896
+Total time until now: 155.40411591529846 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014405.37+305122.5
+
+The star  ASASSN-V J014405.37+305122.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00345
+ - Using 5 steps per peak; omega_step = 0.00069
+ - User-specified period range:  0.1 to 6.3e+02
+ - Computing periods at 90991 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.16328817900591905 days and the amplitud is 0.7349999999999994 mag 
+The information of the Asassn is: 
+The period is: 0.3265755 days and the amplitud is 0.47 mag 
+
+
+total:  99
+variables:  67
+non variables:  29
+error:  3
+The time for this start was 2.397343873977661
+Total time until now: 157.80145978927612 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014405.37-365927.7
+
+The star  ASASSN-V J014405.37-365927.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00396
+ - Using 5 steps per peak; omega_step = 0.000791
+ - User-specified period range:  0.1 to 4.9e+02
+ - Computing periods at 79375 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.3007591179050867 days and the amplitud is 0.7790000000000008 mag 
+The information of the Asassn is: 
+The period is: 0.3007643 days and the amplitud is 0.72 mag 
+
+
+total:  100
+variables:  68
+non variables:  29
+error:  3
+The time for this start was 3.0105814933776855
+Total time until now: 160.8120412826538 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014406.02+505552.7
+
+The star  ASASSN-V J014406.02+505552.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.17448617271116884 days and the amplitud is 0.16549999999999976 mag 
+The information of the Asassn is: 
+The period is: 0.3489725 days and the amplitud is 0.21 mag 
+
+
+total:  101
+variables:  69
+non variables:  29
+error:  3
+The time for this start was 1.7791242599487305
+Total time until now: 162.59116554260254 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014406.58+562026.1
+
+The star  ASASSN-V J014406.58+562026.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.000138056706899 days and the amplitud is 0.22599999999999998 mag 
+The information of the Asassn is: 
+The period is: 329.9230569 days and the amplitud is 0.33 mag 
+
+
+total:  102
+variables:  70
+non variables:  29
+error:  3
+The time for this start was 1.6321213245391846
+Total time until now: 164.22328686714172 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014407.49+504455.8
+
+The star  ASASSN-V J014407.49+504455.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.5053718047867916 days and the amplitud is 0.2860000000000005 mag 
+The information of the Asassn is: 
+The period is: 30.0458349 days and the amplitud is 0.2 mag 
+
+
+total:  103
+variables:  71
+non variables:  29
+error:  3
+The time for this start was 1.4091057777404785
+Total time until now: 165.6323926448822 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014407.64+725940.1.
+
+The star  ASASSN-VJ014407.64+725940.1. is not periodic
+
+total:  104
+variables:  71
+non variables:  30
+error:  3
+The time for this start was 0.01800251007080078
+Total time until now: 165.650395154953 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014408.11+603919.7.
+
+The star  ASASSN-VJ014408.11+603919.7. is not periodic
+
+total:  105
+variables:  71
+non variables:  31
+error:  3
+The time for this start was 0.014998435974121094
+Total time until now: 165.66539359092712 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014410.84+563644.8
+
+The star  ASASSN-V J014410.84+563644.8 is periodic
+
+gatspy error
+
+total:  106
+variables:  71
+non variables:  31
+error:  4
+The time for this start was 0.028004169464111328
+Total time until now: 165.69339776039124 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014411.58+064341.4
+
+The star  ASASSN-V J014411.58+064341.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00349
+ - Using 5 steps per peak; omega_step = 0.000699
+ - User-specified period range:  0.1 to 2.7e+02
+ - Computing periods at 89920 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.12412924991779462 days and the amplitud is 1.1190000000000007 mag 
+The information of the Asassn is: 
+The period is: 0.2482539 days and the amplitud is 0.55 mag 
+
+
+total:  107
+variables:  72
+non variables:  31
+error:  4
+The time for this start was 1.6781291961669922
+Total time until now: 167.37152695655823 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014411.78+615100.6.
+
+The star  ASASSN-VJ014411.78+615100.6. is not periodic
+
+total:  108
+variables:  72
+non variables:  32
+error:  4
+The time for this start was 0.013997316360473633
+Total time until now: 167.3855242729187 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014412.11-671954.9
+
+The star  ASASSN-V J014412.11-671954.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00396
+ - Using 5 steps per peak; omega_step = 0.000791
+ - User-specified period range:  0.1 to 2.9e+02
+ - Computing periods at 79361 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.20329143032279154 days and the amplitud is 0.17850000000000055 mag 
+The information of the Asassn is: 
+The period is: 0.4065835 days and the amplitud is 0.17 mag 
+
+
+total:  109
+variables:  73
+non variables:  32
+error:  4
+The time for this start was 1.6211225986480713
+Total time until now: 169.00664687156677 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014412.68+602714.3
+
+The star  ASASSN-V J014412.68+602714.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.0564314921799 days and the amplitud is 0.2134999999999998 mag 
+The information of the Asassn is: 
+The period is: 2.1129199 days and the amplitud is 0.25 mag 
+
+
+total:  110
+variables:  74
+non variables:  32
+error:  4
+The time for this start was 1.8009800910949707
+Total time until now: 170.80762696266174 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014413.07-775111.0
+
+The star  ASASSN-V J014413.07-775111.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00461
+ - Using 5 steps per peak; omega_step = 0.000923
+ - User-specified period range:  0.1 to 2.3e+02
+ - Computing periods at 68051 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.18265199638220125 days and the amplitud is 0.24950000000000028 mag 
+The information of the Asassn is: 
+The period is: 0.36531 days and the amplitud is 0.36 mag 
+
+
+total:  111
+variables:  75
+non variables:  32
+error:  4
+The time for this start was 1.538240671157837
+Total time until now: 172.34586763381958 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014414.81+285506.6
+
+The star  ASASSN-V J014414.81+285506.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00345
+ - Using 5 steps per peak; omega_step = 0.00069
+ - User-specified period range:  0.1 to 6.3e+02
+ - Computing periods at 90991 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.20504071484628628 days and the amplitud is 0.8365 mag 
+The information of the Asassn is: 
+The period is: 0.410082 days and the amplitud is 0.55 mag 
+
+
+total:  112
+variables:  76
+non variables:  32
+error:  4
+The time for this start was 2.2321677207946777
+Total time until now: 174.57803535461426 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014416.96-021844.1
+
+The star  ASASSN-V J014416.96-021844.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000684
+ - User-specified period range:  0.1 to 2.9e+02
+ - Computing periods at 91776 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.3594957589742418 days and the amplitud is 0.742 mag 
+The information of the Asassn is: 
+The period is: 2.7188263 days and the amplitud is 1.29 mag 
+
+
+total:  113
+variables:  77
+non variables:  32
+error:  4
+The time for this start was 1.719132423400879
+Total time until now: 176.29716777801514 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014417.06+565637.2
+
+The star  ASASSN-V J014417.06+565637.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.2647402754709074 days and the amplitud is 0.13649999999999984 mag 
+The information of the Asassn is: 
+The period is: 0.529479 days and the amplitud is 0.14 mag 
+
+
+total:  114
+variables:  78
+non variables:  32
+error:  4
+The time for this start was 1.2300913333892822
+Total time until now: 177.52725911140442 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014417.28+611650.6
+
+The star  ASASSN-V J014417.28+611650.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.7986944421935543 days and the amplitud is 0.15749999999999975 mag 
+The information of the Asassn is: 
+The period is: 1.5974196 days and the amplitud is 0.25 mag 
+
+
+total:  115
+variables:  79
+non variables:  32
+error:  4
+The time for this start was 1.3360989093780518
+Total time until now: 178.86335802078247 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014417.40-033338.8.
+
+The star  ASASSN-VJ014417.40-033338.8. is not periodic
+
+total:  116
+variables:  79
+non variables:  33
+error:  4
+The time for this start was 0.014001131057739258
+Total time until now: 178.8773591518402 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014417.91+742033.5
+
+The star  ASASSN-V J014417.91+742033.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00355
+ - Using 5 steps per peak; omega_step = 0.00071
+ - User-specified period range:  0.1 to 1.6e+02
+ - Computing periods at 88406 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.9945070580323461 days and the amplitud is 2.1715 mag 
+The information of the Asassn is: 
+The period is: 363.5645489 days and the amplitud is 4.05 mag 
+
+
+total:  117
+variables:  80
+non variables:  33
+error:  4
+The time for this start was 1.4190146923065186
+Total time until now: 180.29637384414673 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014417.98+573211.1.
+
+The star  ASASSN-VJ014417.98+573211.1. is not periodic
+
+total:  118
+variables:  80
+non variables:  34
+error:  4
+The time for this start was 0.026026487350463867
+Total time until now: 180.3224003314972 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014418.40+632034.8
+
+The star  ASASSN-V J014418.40+632034.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.783674177362599 days and the amplitud is 0.23550000000000004 mag 
+The information of the Asassn is: 
+The period is: 1.567381 days and the amplitud is 0.31 mag 
+
+
+total:  119
+variables:  81
+non variables:  34
+error:  4
+The time for this start was 1.3352291584014893
+Total time until now: 181.65762948989868 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014419.04-844359.1
+
+The star  ASASSN-V J014419.04-844359.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00413
+ - Using 5 steps per peak; omega_step = 0.000826
+ - User-specified period range:  0.1 to 4.1e+02
+ - Computing periods at 76083 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.3196167481442967 days and the amplitud is 0.36300000000000043 mag 
+The information of the Asassn is: 
+The period is: 0.639234 days and the amplitud is 0.46 mag 
+
+
+total:  120
+variables:  82
+non variables:  34
+error:  4
+The time for this start was 1.6938097476959229
+Total time until now: 183.3514392375946 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014419.10+362451.2.
+
+The star  ASASSN-VJ014419.10+362451.2. is not periodic
+
+total:  121
+variables:  82
+non variables:  35
+error:  4
+The time for this start was 0.015001296997070312
+Total time until now: 183.36644053459167 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014419.57-204427.4.
+
+The star  ASASSN-VJ014419.57-204427.4. is not periodic
+
+total:  122
+variables:  82
+non variables:  36
+error:  4
+The time for this start was 0.014001846313476562
+Total time until now: 183.38044238090515 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014420.03+500916.4.
+
+The star  ASASSN-VJ014420.03+500916.4. is not periodic
+
+total:  123
+variables:  82
+non variables:  37
+error:  4
+The time for this start was 0.011003732681274414
+Total time until now: 183.39144611358643 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014421.61+460841.8.
+
+The star  ASASSN-VJ014421.61+460841.8. is not periodic
+
+total:  124
+variables:  82
+non variables:  38
+error:  4
+The time for this start was 0.02199721336364746
+Total time until now: 183.41344332695007 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014422.07+502743.2
+
+The star  ASASSN-V J014422.07+502743.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.9974800814745413 days and the amplitud is 0.30600000000000005 mag 
+The information of the Asassn is: 
+The period is: 1.9951146 days and the amplitud is 0.14 mag 
+
+
+total:  125
+variables:  83
+non variables:  38
+error:  4
+The time for this start was 1.9530532360076904
+Total time until now: 185.36649656295776 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014422.20+674050.9.
+
+The star  ASASSN-VJ014422.20+674050.9. is not periodic
+
+total:  126
+variables:  83
+non variables:  39
+error:  4
+The time for this start was 0.02900242805480957
+Total time until now: 185.39549899101257 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014422.43+650846.3.
+
+The star  ASASSN-VJ014422.43+650846.3. is not periodic
+
+total:  127
+variables:  83
+non variables:  40
+error:  4
+The time for this start was 0.022999286651611328
+Total time until now: 185.41849827766418 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014422.66+491753.5.
+
+The star  ASASSN-VJ014422.66+491753.5. is not periodic
+
+total:  128
+variables:  83
+non variables:  41
+error:  4
+The time for this start was 0.027004003524780273
+Total time until now: 185.44550228118896 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014422.94+604042.1.
+
+The star  ASASSN-VJ014422.94+604042.1. is not periodic
+
+total:  129
+variables:  83
+non variables:  42
+error:  4
+The time for this start was 0.03299975395202637
+Total time until now: 185.478502035141 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014422.97-345330.8.
+
+The star  ASASSN-VJ014422.97-345330.8. is not periodic
+
+total:  130
+variables:  83
+non variables:  43
+error:  4
+The time for this start was 0.020002365112304688
+Total time until now: 185.4985044002533 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014423.00+615213.0.
+
+The star  ASASSN-VJ014423.00+615213.0. is not periodic
+
+total:  131
+variables:  83
+non variables:  44
+error:  4
+The time for this start was 0.021000385284423828
+Total time until now: 185.51950478553772 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014423.55+452729.1
+
+The star  ASASSN-V J014423.55+452729.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 3.9583920563489294 days and the amplitud is 0.12849999999999984 mag 
+The information of the Asassn is: 
+The period is: 3.9586546 days and the amplitud is 0.16 mag 
+
+
+total:  132
+variables:  84
+non variables:  44
+error:  4
+The time for this start was 2.533750057220459
+Total time until now: 188.05325484275818 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014423.91+471504.0
+
+The star  ASASSN-V J014423.91+471504.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.3340427430980399 days and the amplitud is 0.07249999999999979 mag 
+The information of the Asassn is: 
+The period is: 0.3340427 days and the amplitud is 0.11 mag 
+
+
+total:  133
+variables:  85
+non variables:  44
+error:  4
+The time for this start was 4.363110303878784
+Total time until now: 192.41636514663696 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014424.13+264004.0
+
+The star  ASASSN-V J014424.13+264004.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00251
+ - Using 5 steps per peak; omega_step = 0.000502
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 125196 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.3333418113640172 days and the amplitud is 0.7620000000000005 mag 
+The information of the Asassn is: 
+The period is: 0.6666812 days and the amplitud is 0.78 mag 
+
+
+total:  134
+variables:  86
+non variables:  44
+error:  4
+The time for this start was 2.445181131362915
+Total time until now: 194.86154627799988 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014426.02+483215.9
+
+The star  ASASSN-V J014426.02+483215.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.3148533262171096 days and the amplitud is 0.23749999999999982 mag 
+The information of the Asassn is: 
+The period is: 0.6297073 days and the amplitud is 0.43 mag 
+
+
+total:  135
+variables:  87
+non variables:  44
+error:  4
+The time for this start was 1.3181021213531494
+Total time until now: 196.17964839935303 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014426.48+690606.1
+
+The star  ASASSN-V J014426.48+690606.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00484
+ - Using 5 steps per peak; omega_step = 0.000968
+ - User-specified period range:  0.1 to 1.6e+02
+ - Computing periods at 64875 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 20.05213618560029 days and the amplitud is 0.09600000000000009 mag 
+The information of the Asassn is: 
+The period is: 20.0660406 days and the amplitud is 0.09 mag 
+
+
+total:  136
+variables:  88
+non variables:  44
+error:  4
+The time for this start was 1.2273950576782227
+Total time until now: 197.40704345703125 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014426.73+685058.2
+
+The star  ASASSN-V J014426.73+685058.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.8e+02
+ - Computing periods at 72008 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 181.2732434194478 days and the amplitud is 0.5250000000000004 mag 
+The information of the Asassn is: 
+The period is: 95.0 days and the amplitud is 0.41 mag 
+
+
+total:  137
+variables:  89
+non variables:  44
+error:  4
+The time for this start was 1.2230913639068604
+Total time until now: 198.6301348209381 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014426.80+592229.5
+
+The star  ASASSN-V J014426.80+592229.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.2208105331493708 days and the amplitud is 0.2560000000000002 mag 
+The information of the Asassn is: 
+The period is: 4.8827988 days and the amplitud is 0.33 mag 
+
+
+total:  138
+variables:  90
+non variables:  44
+error:  4
+The time for this start was 1.8098466396331787
+Total time until now: 200.4399814605713 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014426.88+604435.3
+
+The star  ASASSN-V J014426.88+604435.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 1.6e+02
+ - Computing periods at 72002 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 114.8707127928358 days and the amplitud is 0.46450000000000014 mag 
+The information of the Asassn is: 
+The period is: 112.1878586 days and the amplitud is 0.61 mag 
+
+
+total:  139
+variables:  91
+non variables:  44
+error:  4
+The time for this start was 1.5241141319274902
+Total time until now: 201.96409559249878 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014427.93+053629.2.
+
+The star  ASASSN-VJ014427.93+053629.2. is not periodic
+
+total:  140
+variables:  91
+non variables:  45
+error:  4
+The time for this start was 0.01600050926208496
+Total time until now: 201.98009610176086 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014428.41-334231.8
+
+The star  ASASSN-V J014428.41-334231.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00398
+ - Using 5 steps per peak; omega_step = 0.000796
+ - User-specified period range:  0.1 to 2.8e+02
+ - Computing periods at 78913 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 5.913358899488526 days and the amplitud is 0.11500000000000021 mag 
+The information of the Asassn is: 
+The period is: 5.913543 days and the amplitud is 0.11 mag 
+
+
+total:  141
+variables:  92
+non variables:  45
+error:  4
+The time for this start was 1.586737871170044
+Total time until now: 203.5678346157074 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014430.46+442203.7
+
+The star  ASASSN-V J014430.46+442203.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 6.339309890285641 days and the amplitud is 0.08399999999999963 mag 
+The information of the Asassn is: 
+The period is: 6.3398518 days and the amplitud is 0.1 mag 
+
+
+total:  142
+variables:  93
+non variables:  45
+error:  4
+The time for this start was 1.47011137008667
+Total time until now: 205.03794598579407 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014430.63+501448.2
+
+The star  ASASSN-V J014430.63+501448.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00445
+ - Using 5 steps per peak; omega_step = 0.00089
+ - User-specified period range:  0.1 to 1.2e+02
+ - Computing periods at 70548 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 17.162424868741 days and the amplitud is 0.18299999999999983 mag 
+The information of the Asassn is: 
+The period is: 17.1769522 days and the amplitud is 0.2 mag 
+
+
+total:  143
+variables:  94
+non variables:  45
+error:  4
+The time for this start was 2.2511682510375977
+Total time until now: 207.28911423683167 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014430.76+572604.2
+
+The star  ASASSN-V J014430.76+572604.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.461915329024895 days and the amplitud is 0.2610000000000001 mag 
+The information of the Asassn is: 
+The period is: 2.923783 days and the amplitud is 0.4 mag 
+
+
+total:  144
+variables:  95
+non variables:  45
+error:  4
+The time for this start was 1.1460866928100586
+Total time until now: 208.43520092964172 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014431.81-134956.8
+
+The star  ASASSN-V J014431.81-134956.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000565
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111245 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.13289039416003806 days and the amplitud is 0.33450000000000024 mag 
+The information of the Asassn is: 
+The period is: 0.2657806 days and the amplitud is 0.49 mag 
+
+
+total:  145
+variables:  96
+non variables:  45
+error:  4
+The time for this start was 2.695202589035034
+Total time until now: 211.13040351867676 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014432.49+514230.0.
+
+The star  ASASSN-VJ014432.49+514230.0. is not periodic
+
+total:  146
+variables:  96
+non variables:  46
+error:  4
+The time for this start was 0.014000892639160156
+Total time until now: 211.14440441131592 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014433.10-610108.5
+
+The star  ASASSN-V J014433.10-610108.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00453
+ - Using 5 steps per peak; omega_step = 0.000906
+ - User-specified period range:  0.1 to 5.1e+02
+ - Computing periods at 69318 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.9994877364608364 days and the amplitud is 2.6904999999999997 mag 
+The information of the Asassn is: 
+The period is: 147.1541884 days and the amplitud is 0.48 mag 
+
+
+total:  147
+variables:  97
+non variables:  46
+error:  4
+The time for this start was 2.97050404548645
+Total time until now: 214.11490845680237 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014433.54-390259.4.
+
+The star  ASASSN-VJ014433.54-390259.4. is not periodic
+
+total:  148
+variables:  97
+non variables:  47
+error:  4
+The time for this start was 0.023290157318115234
+Total time until now: 214.13819861412048 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014433.70-740144.2
+
+The star  ASASSN-V J014433.70-740144.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00395
+ - Using 5 steps per peak; omega_step = 0.00079
+ - User-specified period range:  0.1 to 6.2e+02
+ - Computing periods at 79527 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.1281016225770821 days and the amplitud is 0.35350000000000037 mag 
+The information of the Asassn is: 
+The period is: 0.2562029 days and the amplitud is 0.56 mag 
+
+
+total:  149
+variables:  98
+non variables:  47
+error:  4
+The time for this start was 2.8301467895507812
+Total time until now: 216.96834540367126 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014434.52-040406.5.
+
+The star  ASASSN-VJ014434.52-040406.5. is not periodic
+
+total:  150
+variables:  98
+non variables:  48
+error:  4
+The time for this start was 0.013002634048461914
+Total time until now: 216.98134803771973 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014434.91+071815.7
+
+The star  ASASSN-V J014434.91+071815.7 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00349
+ - Using 5 steps per peak; omega_step = 0.000699
+ - User-specified period range:  0.1 to 2.7e+02
+ - Computing periods at 89920 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.7218304340787055 days and the amplitud is 0.4900000000000002 mag 
+The information of the Asassn is: 
+The period is: 1.4437222 days and the amplitud is 0.87 mag 
+
+
+total:  151
+variables:  99
+non variables:  48
+error:  4
+The time for this start was 2.0744071006774902
+Total time until now: 219.05575513839722 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014435.11-774514.9
+
+The star  ASASSN-V J014435.11-774514.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00461
+ - Using 5 steps per peak; omega_step = 0.000923
+ - User-specified period range:  0.1 to 2.3e+02
+ - Computing periods at 68051 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.5388967435154277 days and the amplitud is 0.5755000000000008 mag 
+The information of the Asassn is: 
+The period is: 0.5388959 days and the amplitud is 1.0 mag 
+
+
+total:  152
+variables:  100
+non variables:  48
+error:  4
+The time for this start was 2.0633621215820312
+Total time until now: 221.11911725997925 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014435.13-090150.8
+
+The star  ASASSN-V J014435.13-090150.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000684
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91762 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.5897146385226035 days and the amplitud is 0.7944999999999993 mag 
+The information of the Asassn is: 
+The period is: 0.5897412 days and the amplitud is 0.83 mag 
+
+
+total:  153
+variables:  101
+non variables:  48
+error:  4
+The time for this start was 1.8429973125457764
+Total time until now: 222.96211457252502 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014438.25+362640.9
+
+The star  ASASSN-V J014438.25+362640.9 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00346
+ - Using 5 steps per peak; omega_step = 0.000693
+ - User-specified period range:  0.1 to 2.6e+02
+ - Computing periods at 90662 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.9281775939187535 days and the amplitud is 0.38699999999999957 mag 
+The information of the Asassn is: 
+The period is: 2.7846105 days and the amplitud is 0.38 mag 
+
+
+total:  154
+variables:  102
+non variables:  48
+error:  4
+The time for this start was 1.79813814163208
+Total time until now: 224.7602527141571 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014438.28-772213.5
+
+The star  ASASSN-V J014438.28-772213.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00461
+ - Using 5 steps per peak; omega_step = 0.000923
+ - User-specified period range:  0.1 to 2.3e+02
+ - Computing periods at 68051 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 46.81570554283766 days and the amplitud is 0.24549999999999983 mag 
+The information of the Asassn is: 
+The period is: 46.6909099 days and the amplitud is 0.27 mag 
+
+
+total:  155
+variables:  103
+non variables:  48
+error:  4
+The time for this start was 1.7701315879821777
+Total time until now: 226.53038430213928 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014438.58-523840.3.
+
+The star  ASASSN-VJ014438.58-523840.3. is not periodic
+
+total:  156
+variables:  103
+non variables:  49
+error:  4
+The time for this start was 0.023001432418823242
+Total time until now: 226.5533857345581 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014439.97+352831.2
+
+The star  ASASSN-V J014439.97+352831.2 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00282
+ - Using 5 steps per peak; omega_step = 0.000563
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 111541 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.3260946697449609 days and the amplitud is 0.6400000000000006 mag 
+The information of the Asassn is: 
+The period is: 0.652194 days and the amplitud is 0.41 mag 
+
+
+total:  157
+variables:  104
+non variables:  49
+error:  4
+The time for this start was 2.670426845550537
+Total time until now: 229.22381258010864 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014440.62-214736.5
+
+The star  ASASSN-V J014440.62-214736.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00474
+ - Using 5 steps per peak; omega_step = 0.000947
+ - User-specified period range:  0.1 to 1.8e+02
+ - Computing periods at 66298 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.31429975404399324 days and the amplitud is 0.30100000000000016 mag 
+The information of the Asassn is: 
+The period is: 0.3142988 days and the amplitud is 0.44 mag 
+
+
+total:  158
+variables:  105
+non variables:  49
+error:  4
+The time for this start was 1.4471087455749512
+Total time until now: 230.6709213256836 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014440.77+573756.3
+
+The star  ASASSN-V J014440.77+573756.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00566
+ - Using 5 steps per peak; omega_step = 0.00113
+ - User-specified period range:  0.1 to 90
+ - Computing periods at 55441 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.14489824363139278 days and the amplitud is 0.3285 mag 
+The information of the Asassn is: 
+The period is: 0.2897941 days and the amplitud is 0.37 mag 
+
+
+total:  159
+variables:  106
+non variables:  49
+error:  4
+The time for this start was 2.1828672885894775
+Total time until now: 232.85378861427307 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014440.86-043245.2.
+
+The star  ASASSN-VJ014440.86-043245.2. is not periodic
+
+total:  160
+variables:  106
+non variables:  50
+error:  4
+The time for this start was 0.01529836654663086
+Total time until now: 232.8690869808197 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014441.08+535432.3
+
+The star  ASASSN-V J014441.08+535432.3 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000871
+ - User-specified period range:  0.1 to 1.7e+02
+ - Computing periods at 72060 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.14676622105520276 days and the amplitud is 0.5085000000000006 mag 
+The information of the Asassn is: 
+The period is: 0.2935332 days and the amplitud is 0.6 mag 
+
+
+total:  161
+variables:  107
+non variables:  50
+error:  4
+The time for this start was 2.061444044113159
+Total time until now: 234.93053102493286 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014441.64+613913.1
+
+The star  ASASSN-V J014441.64+613913.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00443
+ - Using 5 steps per peak; omega_step = 0.000885
+ - User-specified period range:  0.1 to 1.5e+02
+ - Computing periods at 70914 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.3086097779203387 days and the amplitud is 0.08899999999999952 mag 
+The information of the Asassn is: 
+The period is: 2.6173696 days and the amplitud is 0.12 mag 
+
+
+total:  162
+variables:  108
+non variables:  50
+error:  4
+The time for this start was 2.153160333633423
+Total time until now: 237.08369135856628 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014442.48+430832.1
+
+The star  ASASSN-V J014442.48+430832.1 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00369
+ - Using 5 steps per peak; omega_step = 0.000737
+ - User-specified period range:  0.1 to 1.9e+02
+ - Computing periods at 85188 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.20371353649362814 days and the amplitud is 0.5469999999999988 mag 
+The information of the Asassn is: 
+The period is: 0.3383282 days and the amplitud is 0.58 mag 
+
+
+total:  163
+variables:  109
+non variables:  50
+error:  4
+The time for this start was 2.5414106845855713
+Total time until now: 239.62510204315186 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014442.60+604017.4.
+
+The star  ASASSN-VJ014442.60+604017.4. is not periodic
+
+total:  164
+variables:  109
+non variables:  51
+error:  4
+The time for this start was 0.013001680374145508
+Total time until now: 239.638103723526 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014442.76+163752.3.
+
+The star  ASASSN-VJ014442.76+163752.3. is not periodic
+
+total:  165
+variables:  109
+non variables:  52
+error:  4
+The time for this start was 0.018999576568603516
+Total time until now: 239.6571033000946 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014442.91+402437.6
+
+The star  ASASSN-V J014442.91+402437.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00316
+ - Using 5 steps per peak; omega_step = 0.000633
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 99282 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.42566624783616674 days and the amplitud is 0.20950000000000024 mag 
+The information of the Asassn is: 
+The period is: 0.8513254 days and the amplitud is 0.23 mag 
+
+
+total:  166
+variables:  110
+non variables:  52
+error:  4
+The time for this start was 1.6681268215179443
+Total time until now: 241.32523012161255 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014444.76+065328.4
+
+The star  ASASSN-V J014444.76+065328.4 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00349
+ - Using 5 steps per peak; omega_step = 0.000699
+ - User-specified period range:  0.1 to 2.7e+02
+ - Computing periods at 89920 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.13506371061119357 days and the amplitud is 0.19200000000000017 mag 
+The information of the Asassn is: 
+The period is: 0.2701303 days and the amplitud is 0.25 mag 
+
+
+total:  167
+variables:  111
+non variables:  52
+error:  4
+The time for this start was 2.0791544914245605
+Total time until now: 243.4043846130371 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014444.78+304510.5
+
+The star  ASASSN-V J014444.78+304510.5 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00345
+ - Using 5 steps per peak; omega_step = 0.00069
+ - User-specified period range:  0.1 to 6.3e+02
+ - Computing periods at 90991 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.15802009565556963 days and the amplitud is 0.22499999999999964 mag 
+The information of the Asassn is: 
+The period is: 0.3160403 days and the amplitud is 0.33 mag 
+
+
+total:  168
+variables:  112
+non variables:  52
+error:  4
+The time for this start was 3.9170920848846436
+Total time until now: 247.32147669792175 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014444.80+440506.0
+
+The star  ASASSN-V J014444.80+440506.0 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00342
+ - Using 5 steps per peak; omega_step = 0.000685
+ - User-specified period range:  0.1 to 2.4e+02
+ - Computing periods at 91712 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.999875295000138 days and the amplitud is 1.0114999999999998 mag 
+The information of the Asassn is: 
+The period is: 374.4846653 days and the amplitud is 0.16 mag 
+
+
+total:  169
+variables:  113
+non variables:  52
+error:  4
+The time for this start was 3.3572583198547363
+Total time until now: 250.6787350177765 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014446.22+521127.6
+
+The star  ASASSN-V J014446.22+521127.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00436
+ - Using 5 steps per peak; omega_step = 0.000872
+ - User-specified period range:  0.1 to 3.3e+02
+ - Computing periods at 72035 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 1.110466091279312 days and the amplitud is 3.7429999999999994 mag 
+The information of the Asassn is: 
+The period is: 2.22089 days and the amplitud is 0.38 mag 
+
+
+total:  170
+variables:  114
+non variables:  52
+error:  4
+The time for this start was 2.8602099418640137
+Total time until now: 253.5389449596405 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014446.86+400107.8
+
+The star  ASASSN-V J014446.86+400107.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00316
+ - Using 5 steps per peak; omega_step = 0.000632
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 99380 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 1.2303721092823254 days and the amplitud is 0.20249999999999968 mag 
+The information of the Asassn is: 
+The period is: 1.2303874 days and the amplitud is 0.16 mag 
+
+
+total:  171
+variables:  115
+non variables:  52
+error:  4
+The time for this start was 3.201239824295044
+Total time until now: 256.74018478393555 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014447.07+223718.0.
+
+The star  ASASSN-VJ014447.07+223718.0. is not periodic
+
+total:  172
+variables:  115
+non variables:  53
+error:  4
+The time for this start was 0.02000260353088379
+Total time until now: 256.76018738746643 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014447.29-750011.8
+
+The star  ASASSN-V J014447.29-750011.8 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00395
+ - Using 5 steps per peak; omega_step = 0.00079
+ - User-specified period range:  0.1 to 6.2e+02
+ - Computing periods at 79527 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+The information found for us is: 
+The period is: 0.16045666779291884 days and the amplitud is 0.1639999999999997 mag 
+The information of the Asassn is: 
+The period is: 0.3209135 days and the amplitud is 0.21 mag 
+
+
+total:  173
+variables:  116
+non variables:  53
+error:  4
+The time for this start was 4.15760350227356
+Total time until now: 260.91879177093506 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-V J014448.04+014817.6
+
+The star  ASASSN-V J014448.04+014817.6 is periodic
+
+Finding optimal frequency:
+ - Estimated peak width = 0.00284
+ - Using 5 steps per peak; omega_step = 0.000568
+ - User-specified period range:  0.1 to 1.9e+03
+ - Computing periods at 110593 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 995 steps
+The information found for us is: 
+The period is: 0.4213278048325661 days and the amplitud is 0.43599999999999994 mag 
+The information of the Asassn is: 
+The period is: 0.4213157 days and the amplitud is 0.5 mag 
+
+
+total:  174
+variables:  117
+non variables:  53
+error:  4
+The time for this start was 2.83221435546875
+Total time until now: 263.7510061264038 s
+----------------------------------------------------------------------------------------------------
+Star:  ASASSN-VJ014448.05+070713.6.
+
+The star  ASASSN-VJ014448.05+070713.6. is not periodic
+
+total:  175
+variables:  117
+non variables:  54
+error:  4
+The time for this start was 0.03000164031982422
+Total time until now: 263.78100776672363 s
+----------------------------------------------------------------------------------------------------
+The time used was: 263.8000087738037 s
