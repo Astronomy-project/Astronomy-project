@@ -1,0 +1,4 @@
+gatspy
+matplotlib
+numpy
+pandas

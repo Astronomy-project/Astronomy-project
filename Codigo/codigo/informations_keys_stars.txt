@@ -1,0 +1,55 @@
+Description of columns. Units in ()
+
+ID: ASAS-SN Name
+RAJ2000: Right Ascension (deg)
+DEJ2000 : Declination (deg)
+l : Galactic longitude (deg)
+b: Galactic latitude (deg)
+ML_classification: Variable star classification from the ASAS-SN machine learning pipeline
+ML_probability: Variable star classification probability from the ASAS-SN machine learning pipeline
+Mean_gmag: Mean ASAS-SN g-band magnitude (mag)
+Amplitude: ASAS-SN g-band amplitude (mag)
+Period : Variability period from ASAS-SN g-band (days)
+EpochHJD: Ephemeris from ASAS-SN g-band (HJD)
+LKSL_statistic: Lafler-Kinmann String Length statistic
+ASASSN_Discovery: ASAS-SN Discovery flag (True: ASAS-SN discovery, False: Known variable)
+EDR3_source_id : Gaia EDR3 source ID
+parallax: Gaia EDR3 parallax (mas)
+parallax_error: Gaia EDR3 parallax error (mas)
+parallax_over_error: Gaia EDR3 parallax divided by parallax error
+pm: Gaia EDR3 total proper motion (mas/yr)
+pmra: Gaia EDR3 RA proper motion (mas/yr)
+pmra_error: Gaia EDR3 RA proper motion error (mas/yr)
+pmdec: Gaia EDR3 DEC proper motion (mas/yr)
+pmdec_error: Gaia EDR3 DEC proper motion error (mas/yr)
+ruwe: Gaia EDR3 renormalized unit weight error
+phot_g_mean_mag: Gaia EDR3 G-band magnitude (mag)
+e_phot_g_mean_mag: Gaia EDR3 G-band magnitude error (mag)
+phot_bp_mean_mag: Gaia EDR3 BP-band magnitude (mag)
+e_phot_bp_mean_mag: Gaia EDR3 BP-band magnitude error (mag)
+phot_rp_mean_mag: Gaia EDR3 RP-band magnitude (mag)
+e_phot_rp_mean_mag: Gaia EDR3 RP-band magnitude error (mag)
+bp_rp: Gaia EDR3 BP-RP color (mag)
+EDR3_dist: Gaia EDR3 Bailer-Jones et al. probabilistic distance (pc)
+GALEX_ID: GALEX source ID
+FUVmag: GALEX FUV magnitude (mag)
+e_FUVmag: GALEX FUV magnitude error (mag)
+NUVmag: GALEX NUV magnitude (mag)
+e_NUVmag: GALEX NUV magnitude error (mag)
+TIC_ID: TESS Input Catalog ID
+AllWISE_ID: AllWISE source ID
+W1mag: AllWISE W1 magnitude (mag)
+W2mag: AllWISE W2 magnitude (mag)
+W3mag: AllWISE W3 magnitude (mag)
+W4mag: AllWISE W4 magnitude (mag)
+Jmag: 2MASS J-band magnitude (mag)
+Hmag: 2MASS H-band magnitude (mag)
+Kmag: 2MASS Ks-band magnitude (mag)
+e_W1mag: AllWISE W1 magnitude error (mag)
+e_W2mag: AllWISE W2 magnitude error (mag)
+e_W3mag: AllWISE W3 magnitude error (mag)
+e_W4mag: AllWISE W4 magnitude error (mag)
+e_Jmag: 2MASS J-band magnitude error (mag)
+e_Hmag: 2MASS H-band magnitude error (mag)
+e_Kmag: 2MASS Ks-band magnitude error (mag)
+Reference: ASAS-SN Paper reference
